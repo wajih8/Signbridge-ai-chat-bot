@@ -50,7 +50,7 @@ npm install
 
 ```env
 MONGODB_URI=your_mongodb_connection_string
-NEXTAUTH_SECRET=your_secret_key
+NEXTAUTH_SECRET=iNNb4OIFERsHhgwUol6vBKQpmnId4yvR6U5lfdzNZX8=
 GEMINI_API_KEY=your_google_generative_ai_key
 ```
 
